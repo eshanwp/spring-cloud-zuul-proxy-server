@@ -8,7 +8,7 @@ For Example, /weather-service/weather is mapped to the weather service, Zuul Ser
 http://localhost:8761/ in your web browser and you can find the Eureka Server running on the port 8761 as 
 shown below
 
-![alt text](https://github.com/eshanwp/spring-cloud-zuul-proxy-server/blob/master/eureka-server/img/screencapture-localhost-8761-2018-11-25-10_48_53.png)
+![alt text](https://github.com/eshanwp/spring-cloud-zuul-proxy-server/blob/master/eureka-server/img/screencapture.png)
 
 Following technologies being used
 
