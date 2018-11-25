@@ -3,7 +3,7 @@
 Zuul Server is a gateway application that handles all the requests and does the dynamic routing of microservice applications. 
 The Zuul Server is also known as Edge Server.
 
-For Example, /weather-service/weather is mapped to the weather service, Zuul Server dynamically routes the requests to the respective backend application.
+For Example, /weather-service/weather is mapped to the WEATHER-CLIENT,Zuul Server dynamically routes the requests to the respective backend application.
 
 http://localhost:8761/ in your web browser and you can find the Eureka Server running on the port 8761 as 
 shown below
